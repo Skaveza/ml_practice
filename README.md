@@ -1,1 +1,1 @@
-# ml_practice
+# This module contains my practise for machine learning
