@@ -1,1 +1,1 @@
-# This module contains my practise for machine learning
+# This module contains my practice for machine learning
